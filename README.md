@@ -1,8 +1,10 @@
 # Hello, I'm Alessio 🙂
+- 🔭 I'm currently working at [AIR](https://github.com/my-air)
+- 🌱 I'm currently learning [AWS](https://github.com/aws)
 
-## Hello, I'm Alessio 🙂
-
-### Hello, I'm Alessio 🙂
+## 📫 How to reach me 
+- [LinkedIn](https://www.linkedin.com/in/afelicioni)
+- [Twitter](https://twitter.com/afelicioni)
 
 <!--
 **afelicioni/afelicioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
