@@ -4,7 +4,7 @@
 
 ## 📫 How to reach me 
 - [LinkedIn](https://www.linkedin.com/in/afelicioni)
-- [Twitter](https://twitter.com/afelicioni)
+- [𝕏](https://twitter.com/afelicioni) (formerly Twitter)
 
 <!--
 **afelicioni/afelicioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
