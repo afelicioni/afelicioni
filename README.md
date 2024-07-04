@@ -1,5 +1,5 @@
 # Hello, I'm Alessio 🙂
-- 🔭 I'm currently working at [AIR](https://github.com/my-air)
+- 🔭 I'm currently working at [Nuove Acque S.p.A.](https://www.nuoveacque.it/)
 - 🌱 I'm currently learning [AWS](https://github.com/aws)
 
 ## 📫 How to reach me 
